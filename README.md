@@ -9,11 +9,13 @@
 
 <h3>Connect with me:</h3>
 
-Facebook: https://www.facebook.com/Brown.DDDDD/
-<br>Instagram: https://www.instagram.com/browndstillalive/
-<br>Twitter: https://twitter.com/Brown_DDD
-<br>Linkedin: https://www.linkedin.com/in/thinh-bui-673582220
-<br>Email: browndddddd@gmail.com
+Facebook: https://www.facebook.com/baemyungseong218/
+<br>Instagram: https://www.instagram.com/baemyungseong/
+<br>Twitter: https://twitter.com/baemyungseong
+<br>Linkedin: https://www.linkedin.com/in/baemyungseong/
+<br>Behance: https://www.behance.net/baemyungseong
+<br>Figma: https://www.figma.com/@baemyungseong
+<br>Email: baemyungseong@gmail.com
 
 <h3>Languages and Tools:</h3>
 
