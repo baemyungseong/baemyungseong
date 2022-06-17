@@ -2,6 +2,8 @@
 
 <h2>I'm a Developer, UI/UX Designer and Photographer!</h2>
 
+<iframe src='https://my.spline.design/miniroomcopy-7e1d42617a94b3e774296572acead5d0/' frameborder='0' width='100%' height='100%'></iframe>
+
 - 🌱 I'm currently a student at the university of information technology
 - 🌱 I’m currently learning everything
 - 👀 I’m interested in playing games, coding and taking photos
