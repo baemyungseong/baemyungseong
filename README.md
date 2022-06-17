@@ -30,11 +30,11 @@ Facebook: https://www.facebook.com/baemyungseong218/
 - Git / Github / Gitlab
 - Terminal
 
-<h5>--- Copyright by Brown.D ---</h5>
+<h5>--- Copyright by Bae Myung Seong ---</h5>
 
 
 
 <!---
-browndddddd/browndddddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+baemyungseong/baemyungseong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
