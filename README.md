@@ -1,4 +1,4 @@
-<p>Hi there, I'm Bui Minh Thinh - aka Bae Myung Seong<p>
+<p>Hi there, I'm Bui Minh Thinh - aka Bae Myung Seong 배뮹성<p>
 
 <h2>I'm a Developer, UI/UX Designer and Photographer!</h2>
 
